@@ -13,9 +13,212 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{cf8c7649-77c4-4996-b3e0-58129a341f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\_micro-api-readonly">
+      <UniqueIdentifier>{52426004-600b-4402-9b9c-bbfe5a4edb89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\_micro-api-readonly\core">
+      <UniqueIdentifier>{d8b87897-c28e-4f81-96a5-7f072da0f35b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\_micro-api-readonly\libraries">
+      <UniqueIdentifier>{a9600bee-4a5d-4096-be92-c14065392668}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\_micro-api-readonly\libraries\Bounce2">
+      <UniqueIdentifier>{a34ad8b6-e31c-4282-9abe-add081a85ba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\_micro-api-readonly\libraries\NeoSWSerial">
+      <UniqueIdentifier>{79036039-ddf1-472b-9fc3-ae79d39656ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\_micro-api-readonly\libraries\SoftwareSerial">
+      <UniqueIdentifier>{2d65edf1-124b-49bb-aa6d-9e8d92955c61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.WorldEndAltar.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bluetooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="USBChipBridge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Arduino.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\binary.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Client.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial_private.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\IPAddress.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\new.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\PluggableUSB.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Print.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Printable.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Server.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Stream.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Udp.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\USBAPI.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\USBCore.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\USBDesc.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\WCharacter.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\wiring_private.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\WString.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\variants\eightanaloginputs\pins_arduino.h">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Arduino\libraries\Bounce2\Bounce2.h">
+      <Filter>src\_micro-api-readonly\libraries\Bounce2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Arduino\libraries\NeoSWSerial\NeoSWSerial.h">
+      <Filter>src\_micro-api-readonly\libraries\NeoSWSerial</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\libraries\SoftwareSerial\src\SoftwareSerial.h">
+      <Filter>src\_micro-api-readonly\libraries\SoftwareSerial</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="WorldEndAltar.ino" />
+    <None Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\wiring_pulse.S">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </None>
+    <None Include="..\..\..\..\Arduino\libraries\Bounce2\library.json">
+      <Filter>src\_micro-api-readonly\libraries\Bounce2</Filter>
+    </None>
+    <None Include="..\..\..\..\Arduino\libraries\Bounce2\library.properties">
+      <Filter>src\_micro-api-readonly\libraries\Bounce2</Filter>
+    </None>
+    <None Include="..\..\..\..\Arduino\libraries\NeoSWSerial\library.properties">
+      <Filter>src\_micro-api-readonly\libraries\NeoSWSerial</Filter>
+    </None>
+    <None Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\libraries\SoftwareSerial\library.properties">
+      <Filter>src\_micro-api-readonly\libraries\SoftwareSerial</Filter>
+    </None>
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClCompile Include="Port.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bluetooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="USBChipBridge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="USBChipComm.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="USBChipComm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\abi.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\CDC.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial0.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial1.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial2.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\HardwareSerial3.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\IPAddress.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\main.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\new.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\PluggableUSB.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Print.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Stream.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\Tone.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\USBCore.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\WMath.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\cores\arduino\WString.cpp">
+      <Filter>src\_micro-api-readonly\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Arduino\libraries\Bounce2\Bounce2.cpp">
+      <Filter>src\_micro-api-readonly\libraries\Bounce2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Arduino\libraries\NeoSWSerial\NeoSWSerial.cpp">
+      <Filter>src\_micro-api-readonly\libraries\NeoSWSerial</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\libraries\SoftwareSerial\src\SoftwareSerial.cpp">
+      <Filter>src\_micro-api-readonly\libraries\SoftwareSerial</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Arduino\libraries\Bounce2\INSTALL.txt">
+      <Filter>src\_micro-api-readonly\libraries\Bounce2</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Arduino\libraries\Bounce2\keywords.txt">
+      <Filter>src\_micro-api-readonly\libraries\Bounce2</Filter>
+    </Text>
+    <Text Include="D:\arduino-1.8.5-windows\arduino-1.8.5\hardware\arduino\avr\libraries\SoftwareSerial\keywords.txt">
+      <Filter>src\_micro-api-readonly\libraries\SoftwareSerial</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
